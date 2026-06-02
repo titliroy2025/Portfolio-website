@@ -87,7 +87,7 @@
             and Blockchain Technology.
         </p>
 
-        <a href="mailto:yourmail@gmail.com" class="btn">Contact Me</a>
+        <a href="mailto:titliroy@gmail.com" class="btn">Contact Me</a>
 
     </div>
 
