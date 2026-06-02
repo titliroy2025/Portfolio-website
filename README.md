@@ -76,9 +76,9 @@
 
     <div class="card">
 
-        <img src="https://via.placeholder.com/150" alt="Profile Photo">
+    <img src="https://ibb.co/VpYmFSzm
 
-        <h1>Your Name</h1>
+        <h1>titliroy</h1>
         <h2>BBA Student | MAKAUT</h2>
 
         <p>
